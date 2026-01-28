@@ -4,7 +4,7 @@ This Repo contains the tasks and research for Robotics Club
 <br>ROS splits the robot into small programs that communicate and run the robot smoothly.
 <br>Each part of the robot becomes independent, reusable, and replaceable.
 <br>Major Components of ROS2 are 
-<br>NODE:
+<h4><br>NODE:<\h4>
 A node is a single executable program that performs one specific task.
 for Example:
 1.Camera node captures images
