@@ -40,3 +40,9 @@ Tells us where is the object.
 It tells how sure is the model about the  Example output of an image :
 <br>Person – 92%
 <br>Car – 88%
+
+## Basic Linux Commands
+<br>- `ls` – list files
+<br>- `cd` – change directory
+<br>- `mkdir` – create folder
+<br>- `sudo apt install` – install packages
